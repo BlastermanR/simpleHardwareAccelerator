@@ -1,0 +1,39 @@
+# Ignore Vivado auto-generated files
+*.jou
+*.log
+*.str
+*.cache/
+*.hw/
+*.runs/
+*.sim/
+*.ip_user_files/
+*.gen/
+*.tmp/
+*.bak/
+
+# Ignore Vivado project metadata
+*.xpr
+*.xpa
+*.xpl
+*.ltx
+*.tcl.bak
+
+# Ignore build & output files
+*.dcp
+*.bit
+*.bin
+*.mcs
+*.elf
+*.hwh
+
+# Ignore Vitis & SDK files
+*.sdk
+*.vitis
+*.sysdef
+
+# Ignore Vivado autosave & checkpoint files
+*.wcfg
+*.wdb
+*.xsa
+*.rpt
+*.bxml
