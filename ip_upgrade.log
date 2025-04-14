@@ -1,0 +1,100 @@
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Sun Apr 13 19:10:34 2025
+| Host         : JLK313-07 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_rst_ps7_0_100M_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_rst_ps7_0_100M_0 (xilinx.com:ip:proc_sys_reset:5.0) from (Rev. 13) to (Rev. 16)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Sun Apr 13 19:10:34 2025
+| Host         : JLK313-07 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_ps7_0_axi_periph_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_ps7_0_axi_periph_0 (xilinx.com:ip:axi_interconnect:2.1) from (Rev. 29) to (Rev. 34)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Sun Apr 13 19:10:34 2025
+| Host         : JLK313-07 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_axi_gpio_2_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_axi_gpio_2_0 (xilinx.com:ip:axi_gpio:2.0) from (Rev. 30) to (Rev. 35)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Sun Apr 13 19:10:34 2025
+| Host         : JLK313-07 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_axi_gpio_0_1'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_axi_gpio_0_1 (xilinx.com:ip:axi_gpio:2.0) from (Rev. 30) to (Rev. 35)
+
+
+
+
+
+
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved. Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2024.2 (win64) Build 5239630 Fri Nov 08 22:35:27 MST 2024
+| Date         : Sun Apr 13 19:10:34 2025
+| Host         : JLK313-07 running 64-bit major release  (build 9200)
+| Command      : upgrade_ip
+| Device       : xc7z020clg484-1
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Upgrade Log for IP 'design_1_axi_gpio_0_0'
+
+1. Summary
+----------
+
+SUCCESS in the upgrade of design_1_axi_gpio_0_0 (xilinx.com:ip:axi_gpio:2.0) from (Rev. 30) to (Rev. 35)
+
