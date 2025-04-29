@@ -57,10 +57,13 @@ This approach allows rapid computation offloading from software to hardware and 
    - Zynq PS
    - Custom Adder IP
    - AXI GPIO (for switches/LEDs)
-   - AXI Interconnect (if used)
+   - AXI Interconnect
 4. Run block automation, generate HDL wrapper.
 5. Synthesize, implement, and generate the bitstream.
 6. Export hardware for Vitis development (`.xsa` file).
+
+![Block Diagram](images/VivadoBlockDiagram.png)  
+*Vivado block diagram showing custom adder IP integration*
 
 ### Part 2: Vitis – Software Development
 
