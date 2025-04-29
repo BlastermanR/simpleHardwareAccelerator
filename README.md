@@ -6,7 +6,8 @@ A simple 4-bit hardware adder accelerator implemented on the ZedBoard using Xili
 
 This project demonstrates the development and integration of a custom hardware accelerator with a Zynq-7000 SoC. A 4-bit adder is implemented as a custom IP core in the Programmable Logic (PL) and interfaced with the ARM Processing System (PS) using AXI-Lite. Users input values using the ZedBoard’s switches, and the computed result is displayed on the onboard LEDs.
 
-Created as part of my **Hardware-Software Codesign Class**  
+Created as part of our **Hardware-Software Codesign Class**  
+**By Ryan Massie, Teagan Hendricks, Ben Starling**
 
 ---
 
